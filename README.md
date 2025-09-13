@@ -1,4 +1,4 @@
-# 🚀 Vidllux Engine – by VidllQ Limited
+# 🚀 fivex Engine
 
 Vidllux Engine is a proprietary multiplayer and game framework developed and maintained by **VidllQ Limited**.  
 It is a custom fork of the CitizenFX framework, expanded with new systems, branding, and modules.
